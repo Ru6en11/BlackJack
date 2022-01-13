@@ -1,0 +1,20 @@
+#####################
+Start game
+The player receives a card |Spades 2| Skore: 2
+The diler receives a card |Spades Jack| Skore: 10
+The player receives a card |Diamonds 8| Skore: 10
+The diler receives a card |Clubs King| Skore: 20
+Player SURRENDER
+Diler are winer!
+Play again
+#####################
+Start game
+The player receives a card |Spades 7| Skore: 7
+The diler receives a card |Diamonds 2| Skore: 2
+The player receives a card |Diamonds 6| Skore: 13
+The diler receives a card |Spades 10| Skore: 12
+The player receives a card |Diamonds Queen| Skore: 23
+The diler receives a card |Hearts 7| Skore: 19
+Player are loser!
+END the game
+#####################
